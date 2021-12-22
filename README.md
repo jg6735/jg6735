@@ -1,7 +1,5 @@
 ###  つ ◕_◕ ༽つ
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=header&text=Geuns%20&fontSize=50" />
-
 <!--
 **GeunsGit/GeunsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
